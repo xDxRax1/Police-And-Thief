@@ -7,7 +7,7 @@
 
 - 또한, 해당 조합법을 이용해 보물지도를 제작할 수 있습니다. 해당 아이템은 F를 눌러 사용 가능합니다.
   
-![image](https://github.com/user-attachments/assets/d65df63a-e2f4-4f1c-ad80-9ce08d3ea4e9)
+![image](https://github.com/user-attachments/assets/c2cd3653-365c-452f-866c-614ae41bd515)
 
 # 🥷 도둑
 
