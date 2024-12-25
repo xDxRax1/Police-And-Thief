@@ -29,7 +29,7 @@
 
 * 경찰은 열쇠를 용암과 부싯돌과 부시를 사용해 태우면 안됩니다. (시스템 구현 X)
 
-# ⚒️ [ 필요 플러그인 ]
+## ⚒️ [ 필요 플러그인 ]
 
 [Skript](https://github.com/SkriptLang/Skript/releases) 
 
