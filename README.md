@@ -34,7 +34,3 @@
 [Skript](https://github.com/SkriptLang/Skript/releases) 
 
 [SkBee](https://github.com/ShaneBeee/SkBee/releases)
-
-[Chunky](https://modrinth.com/plugin/chunky/versions)
-
-[PlasmoVoice](https://modrinth.com/plugin/plasmo-voice/versions) 또는 [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/versions)
